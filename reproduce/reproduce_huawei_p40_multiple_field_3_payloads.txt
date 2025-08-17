@@ -1,0 +1,13 @@
+# 扫描时间: 2025-07-27 21:17:09
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_3/huawei_p40_pro
+# 找到 2 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_multi_178_203_sg_supergroup_csi_MeasConfig_combo17_case762_20250725_100528
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_3/huawei_p40_pro/mac_sch_multi_178_203_sg_supergroup_csi_MeasConfig_combo17_case762_20250725_100528
+日志文件: mac_sch_multi_178_203_sg_supergroup_csi_MeasConfig_combo17_case762_phone_log_20250725_100528.log
+----------------------------------------
+文件夹名称: mac_sch_multi_136_197_196_group6_combo14_case321_20250725_000505
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_3/huawei_p40_pro/mac_sch_multi_136_197_196_group6_combo14_case321_20250725_000505
+日志文件: mac_sch_multi_136_197_196_group6_combo14_case321_phone_log_20250725_000505.log
+----------------------------------------

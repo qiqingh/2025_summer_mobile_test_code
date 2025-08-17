@@ -1,0 +1,9 @@
+# 扫描时间: 2025-07-27 23:36:49
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/pixel6
+# 找到 1 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_7_mut4_20250714_195133
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/pixel6/mac_sch_7_mut4_20250714_195133
+日志文件: mac_sch_7_mut4_phone_log_20250714_195133.log
+----------------------------------------

@@ -1,0 +1,9 @@
+# 扫描时间: 2025-07-27 21:04:31
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/huawei_p40
+# 找到 1 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_204_mut5_20250714_171126
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/huawei_p40/mac_sch_204_mut5_20250714_171126
+日志文件: mac_sch_204_mut5_phone_log_20250714_171126.log
+----------------------------------------

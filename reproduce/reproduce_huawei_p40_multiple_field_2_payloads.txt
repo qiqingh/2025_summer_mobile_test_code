@@ -1,0 +1,45 @@
+# 扫描时间: 2025-07-27 21:06:54
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro
+# 找到 10 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_multi_46_136_197_196_group6_combo33_case1320_20250723_134952
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_46_136_197_196_group6_combo33_case1320_20250723_134952
+日志文件: mac_sch_multi_46_136_197_196_group6_combo33_case1320_phone_log_20250723_134952.log
+----------------------------------------
+文件夹名称: mac_sch_multi_38_40_6_79_136_group9_combo87_case733_20250723_100809
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_38_40_6_79_136_group9_combo87_case733_20250723_100809
+日志文件: mac_sch_multi_38_40_6_79_136_group9_combo87_case733_phone_log_20250723_100809.log
+----------------------------------------
+文件夹名称: mac_sch_multi_85_40_6_79_136_group9_combo73_case549_20250724_090306
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_85_40_6_79_136_group9_combo73_case549_20250724_090306
+日志文件: mac_sch_multi_85_40_6_79_136_group9_combo73_case549_phone_log_20250724_090306.log
+----------------------------------------
+文件夹名称: mac_sch_multi_51_43_52_group10_combo17_case375_20250723_174305
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_51_43_52_group10_combo17_case375_20250723_174305
+日志文件: mac_sch_multi_51_43_52_group10_combo17_case375_phone_log_20250723_174305.log
+----------------------------------------
+文件夹名称: mac_sch_multi_205_188_sg_supergroup_csi_MeasConfig_combo39_case1837_20250722_211554
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_205_188_sg_supergroup_csi_MeasConfig_combo39_case1837_20250722_211554
+日志文件: mac_sch_multi_205_188_sg_supergroup_csi_MeasConfig_combo39_case1837_phone_log_20250722_211554.log
+----------------------------------------
+文件夹名称: mac_sch_multi_38_40_6_79_136_group9_combo87_case716_20250723_100223
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_38_40_6_79_136_group9_combo87_case716_20250723_100223
+日志文件: mac_sch_multi_38_40_6_79_136_group9_combo87_case716_phone_log_20250723_100223.log
+----------------------------------------
+文件夹名称: mac_sch_multi_85_79_196_187_group6_combo24_case748_20250724_105101
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_85_79_196_187_group6_combo24_case748_20250724_105101
+日志文件: mac_sch_multi_85_79_196_187_group6_combo24_case748_phone_log_20250724_105101.log
+----------------------------------------
+文件夹名称: mac_sch_multi_46_79_213_187_group6_combo31_case1155_20250723_161840
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_46_79_213_187_group6_combo31_case1155_20250723_161840
+日志文件: mac_sch_multi_46_79_213_187_group6_combo31_case1155_phone_log_20250723_161840.log
+----------------------------------------
+文件夹名称: mac_sch_multi_38_79_136_group9_combo11_case35_20250723_101747
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_38_79_136_group9_combo11_case35_20250723_101747
+日志文件: mac_sch_multi_38_79_136_group9_combo11_case35_phone_log_20250723_101747.log
+----------------------------------------
+文件夹名称: mac_sch_multi_22_23_7_group13_combo35_case524_20250723_010516
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_2/huawei_p40_pro/mac_sch_multi_22_23_7_group13_combo35_case524_20250723_010516
+日志文件: mac_sch_multi_22_23_7_group13_combo35_case524_phone_log_20250723_010516.log
+----------------------------------------

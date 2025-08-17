@@ -1,0 +1,765 @@
+# 扫描时间: 2025-07-28 02:37:52
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13
+# 找到 190 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_200_mut4_20250726_220556
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_200_mut4_20250726_220556
+日志文件: mac_sch_200_mut4_phone_log_20250726_220556.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut9_20250724_184102
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut9_20250724_184102
+日志文件: mac_sch_12_mut9_phone_log_20250724_184102.log
+----------------------------------------
+文件夹名称: mac_sch_205_mut6_20250726_224234
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_205_mut6_20250726_224234
+日志文件: mac_sch_205_mut6_phone_log_20250726_224234.log
+----------------------------------------
+文件夹名称: mac_sch_183_mut5_20250726_015612
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_183_mut5_20250726_015612
+日志文件: mac_sch_183_mut5_phone_log_20250726_015612.log
+----------------------------------------
+文件夹名称: mac_sch_191_mut6_20250726_154343
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_191_mut6_20250726_154343
+日志文件: mac_sch_191_mut6_phone_log_20250726_154343.log
+----------------------------------------
+文件夹名称: mac_sch_70_mut2_20250727_160827
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_70_mut2_20250727_160827
+日志文件: mac_sch_70_mut2_phone_log_20250727_160827.log
+----------------------------------------
+文件夹名称: mac_sch_185_mut2_20250726_021341
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_185_mut2_20250726_021341
+日志文件: mac_sch_185_mut2_phone_log_20250726_021341.log
+----------------------------------------
+文件夹名称: mac_sch_189_mut6_20250726_055121
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_189_mut6_20250726_055121
+日志文件: mac_sch_189_mut6_phone_log_20250726_055121.log
+----------------------------------------
+文件夹名称: mac_sch_205_mut5_20250726_224037
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_205_mut5_20250726_224037
+日志文件: mac_sch_205_mut5_phone_log_20250726_224037.log
+----------------------------------------
+文件夹名称: mac_sch_88_mut6_20250727_201258
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_88_mut6_20250727_201258
+日志文件: mac_sch_88_mut6_phone_log_20250727_201258.log
+----------------------------------------
+文件夹名称: mac_sch_11_mut1_20250725_125807
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_11_mut1_20250725_125807
+日志文件: mac_sch_11_mut1_phone_log_20250725_125807.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut63_20250724_183515
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut63_20250724_183515
+日志文件: mac_sch_12_mut63_phone_log_20250724_183515.log
+----------------------------------------
+文件夹名称: mac_sch_82_mut6_20250727_191705
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_82_mut6_20250727_191705
+日志文件: mac_sch_82_mut6_phone_log_20250727_191705.log
+----------------------------------------
+文件夹名称: mac_sch_107_mut6_20250725_113508
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_107_mut6_20250725_113508
+日志文件: mac_sch_107_mut6_phone_log_20250725_113508.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut59_20250724_182538
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut59_20250724_182538
+日志文件: mac_sch_12_mut59_phone_log_20250724_182538.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut14_20250727_024709
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_29_mut14_20250727_024709
+日志文件: mac_sch_29_mut14_phone_log_20250727_024709.log
+----------------------------------------
+文件夹名称: mac_sch_138_mut2_20250724_191741
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_138_mut2_20250724_191741
+日志文件: mac_sch_138_mut2_phone_log_20250724_191741.log
+----------------------------------------
+文件夹名称: mac_sch_200_mut3_20250726_220400
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_200_mut3_20250726_220400
+日志文件: mac_sch_200_mut3_phone_log_20250726_220400.log
+----------------------------------------
+文件夹名称: mac_sch_102_mut4_20250725_015834
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_102_mut4_20250725_015834
+日志文件: mac_sch_102_mut4_phone_log_20250725_015834.log
+----------------------------------------
+文件夹名称: mac_sch_87_mut1_20250727_195145
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_87_mut1_20250727_195145
+日志文件: mac_sch_87_mut1_phone_log_20250727_195145.log
+----------------------------------------
+文件夹名称: mac_sch_135_mut1_20250724_190019
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_135_mut1_20250724_190019
+日志文件: mac_sch_135_mut1_phone_log_20250724_190019.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut62_20250725_195301
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut62_20250725_195301
+日志文件: mac_sch_14_mut62_phone_log_20250725_195301.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut52_20250725_193151
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut52_20250725_193151
+日志文件: mac_sch_14_mut52_phone_log_20250725_193151.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut51_20250725_192955
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut51_20250725_192955
+日志文件: mac_sch_14_mut51_phone_log_20250725_192955.log
+----------------------------------------
+文件夹名称: mac_sch_199_mut5_20250726_214251
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_199_mut5_20250726_214251
+日志文件: mac_sch_199_mut5_phone_log_20250726_214251.log
+----------------------------------------
+文件夹名称: mac_sch_78_mut4_20250727_164855
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_78_mut4_20250727_164855
+日志文件: mac_sch_78_mut4_phone_log_20250727_164855.log
+----------------------------------------
+文件夹名称: mac_sch_200_mut1_20250726_220008
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_200_mut1_20250726_220008
+日志文件: mac_sch_200_mut1_phone_log_20250726_220008.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut4_20250728_001432
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_9_mut4_20250728_001432
+日志文件: mac_sch_9_mut4_phone_log_20250728_001432.log
+----------------------------------------
+文件夹名称: mac_sch_30_mut6_20250727_094948
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_30_mut6_20250727_094948
+日志文件: mac_sch_30_mut6_phone_log_20250727_094948.log
+----------------------------------------
+文件夹名称: mac_sch_168_mut2_20250725_230922
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_168_mut2_20250725_230922
+日志文件: mac_sch_168_mut2_phone_log_20250725_230922.log
+----------------------------------------
+文件夹名称: mac_sch_192_mut1_20250726_154538
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_192_mut1_20250726_154538
+日志文件: mac_sch_192_mut1_phone_log_20250726_154538.log
+----------------------------------------
+文件夹名称: mac_sch_191_mut4_20250726_153952
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_191_mut4_20250726_153952
+日志文件: mac_sch_191_mut4_phone_log_20250726_153952.log
+----------------------------------------
+文件夹名称: mac_sch_80_mut7_20250727_172735
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_80_mut7_20250727_172735
+日志文件: mac_sch_80_mut7_phone_log_20250727_172735.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut60_20250725_194910
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut60_20250725_194910
+日志文件: mac_sch_14_mut60_phone_log_20250725_194910.log
+----------------------------------------
+文件夹名称: mac_sch_200_mut5_20250726_220751
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_200_mut5_20250726_220751
+日志文件: mac_sch_200_mut5_phone_log_20250726_220751.log
+----------------------------------------
+文件夹名称: mac_sch_139_mut2_20250725_161304
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_139_mut2_20250725_161304
+日志文件: mac_sch_139_mut2_phone_log_20250725_161304.log
+----------------------------------------
+文件夹名称: mac_sch_177_mut6_20250726_000421
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_177_mut6_20250726_000421
+日志文件: mac_sch_177_mut6_phone_log_20250726_000421.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut45_20250725_191627
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut45_20250725_191627
+日志文件: mac_sch_14_mut45_phone_log_20250725_191627.log
+----------------------------------------
+文件夹名称: mac_sch_203_mut6_20250726_221926
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_203_mut6_20250726_221926
+日志文件: mac_sch_203_mut6_phone_log_20250726_221926.log
+----------------------------------------
+文件夹名称: mac_sch_85_mut1_20250727_193227
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_85_mut1_20250727_193227
+日志文件: mac_sch_85_mut1_phone_log_20250727_193227.log
+----------------------------------------
+文件夹名称: mac_sch_116_mut1_20250716_201307
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_116_mut1_20250716_201307
+日志文件: mac_sch_116_mut1_phone_log_20250716_201307.log
+----------------------------------------
+文件夹名称: mac_sch_87_mut2_20250727_195341
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_87_mut2_20250727_195341
+日志文件: mac_sch_87_mut2_phone_log_20250727_195341.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut54_20250725_193541
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut54_20250725_193541
+日志文件: mac_sch_14_mut54_phone_log_20250725_193541.log
+----------------------------------------
+文件夹名称: mac_sch_189_mut5_20250726_053840
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_189_mut5_20250726_053840
+日志文件: mac_sch_189_mut5_phone_log_20250726_053840.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut2_20250728_015553
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_52_mut2_20250728_015553
+日志文件: mac_sch_52_mut2_phone_log_20250728_015553.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut5_20250727_125122
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_52_mut5_20250727_125122
+日志文件: mac_sch_52_mut5_phone_log_20250727_125122.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut3_20250724_190802
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_136_mut3_20250724_190802
+日志文件: mac_sch_136_mut3_phone_log_20250724_190802.log
+----------------------------------------
+文件夹名称: mac_sch_139_mut3_20250724_193111
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_139_mut3_20250724_193111
+日志文件: mac_sch_139_mut3_phone_log_20250724_193111.log
+----------------------------------------
+文件夹名称: mac_sch_168_mut6_20250725_231508
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_168_mut6_20250725_231508
+日志文件: mac_sch_168_mut6_phone_log_20250725_231508.log
+----------------------------------------
+文件夹名称: mac_sch_177_mut5_20250726_000225
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_177_mut5_20250726_000225
+日志文件: mac_sch_177_mut5_phone_log_20250726_000225.log
+----------------------------------------
+文件夹名称: mac_sch_112_mut4_20250716_194208
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_112_mut4_20250716_194208
+日志文件: mac_sch_112_mut4_phone_log_20250716_194208.log
+----------------------------------------
+文件夹名称: mac_sch_68_mut4_20250727_142353
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_68_mut4_20250727_142353
+日志文件: mac_sch_68_mut4_phone_log_20250727_142353.log
+----------------------------------------
+文件夹名称: mac_sch_185_mut3_20250726_021539
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_185_mut3_20250726_021539
+日志文件: mac_sch_185_mut3_phone_log_20250726_021539.log
+----------------------------------------
+文件夹名称: mac_sch_138_mut3_20250724_191936
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_138_mut3_20250724_191936
+日志文件: mac_sch_138_mut3_phone_log_20250724_191936.log
+----------------------------------------
+文件夹名称: mac_sch_178_mut6_20250726_001357
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_178_mut6_20250726_001357
+日志文件: mac_sch_178_mut6_phone_log_20250726_001357.log
+----------------------------------------
+文件夹名称: mac_sch_88_mut5_20250727_201103
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_88_mut5_20250727_201103
+日志文件: mac_sch_88_mut5_phone_log_20250727_201103.log
+----------------------------------------
+文件夹名称: mac_sch_85_mut3_20250727_193618
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_85_mut3_20250727_193618
+日志文件: mac_sch_85_mut3_phone_log_20250727_193618.log
+----------------------------------------
+文件夹名称: mac_sch_154_mut5_20250725_204114
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_154_mut5_20250725_204114
+日志文件: mac_sch_154_mut5_phone_log_20250725_204114.log
+----------------------------------------
+文件夹名称: mac_sch_51_mut6_20250727_123948
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_51_mut6_20250727_123948
+日志文件: mac_sch_51_mut6_phone_log_20250727_123948.log
+----------------------------------------
+文件夹名称: mac_sch_146_mut4_20250725_170343
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_146_mut4_20250725_170343
+日志文件: mac_sch_146_mut4_phone_log_20250725_170343.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut62_20250726_152426
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_18_mut62_20250726_152426
+日志文件: mac_sch_18_mut62_phone_log_20250726_152426.log
+----------------------------------------
+文件夹名称: mac_sch_91_mut4_20250727_203021
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_91_mut4_20250727_203021
+日志文件: mac_sch_91_mut4_phone_log_20250727_203021.log
+----------------------------------------
+文件夹名称: mac_sch_78_mut3_20250727_164659
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_78_mut3_20250727_164659
+日志文件: mac_sch_78_mut3_phone_log_20250727_164659.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut3_20250728_015749
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_52_mut3_20250728_015749
+日志文件: mac_sch_52_mut3_phone_log_20250728_015749.log
+----------------------------------------
+文件夹名称: mac_sch_30_mut3_20250727_094557
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_30_mut3_20250727_094557
+日志文件: mac_sch_30_mut3_phone_log_20250727_094557.log
+----------------------------------------
+文件夹名称: mac_sch_154_mut4_20250725_203918
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_154_mut4_20250725_203918
+日志文件: mac_sch_154_mut4_phone_log_20250725_203918.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut5_20250727_104933
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_43_mut5_20250727_104933
+日志文件: mac_sch_43_mut5_phone_log_20250727_104933.log
+----------------------------------------
+文件夹名称: mac_sch_80_mut6_20250727_172539
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_80_mut6_20250727_172539
+日志文件: mac_sch_80_mut6_phone_log_20250727_172539.log
+----------------------------------------
+文件夹名称: mac_sch_88_mut1_20250727_200515
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_88_mut1_20250727_200515
+日志文件: mac_sch_88_mut1_phone_log_20250727_200515.log
+----------------------------------------
+文件夹名称: mac_sch_119_mut6_20250725_125612
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_119_mut6_20250725_125612
+日志文件: mac_sch_119_mut6_phone_log_20250725_125612.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut15_20250727_024905
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_29_mut15_20250727_024905
+日志文件: mac_sch_29_mut15_phone_log_20250727_024905.log
+----------------------------------------
+文件夹名称: mac_sch_123_mut1_20250725_131136
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_123_mut1_20250725_131136
+日志文件: mac_sch_123_mut1_phone_log_20250725_131136.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut26_20250725_004903
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_13_mut26_20250725_004903
+日志文件: mac_sch_13_mut26_phone_log_20250725_004903.log
+----------------------------------------
+文件夹名称: mac_sch_112_mut2_20250725_120014
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_112_mut2_20250725_120014
+日志文件: mac_sch_112_mut2_phone_log_20250725_120014.log
+----------------------------------------
+文件夹名称: mac_sch_205_mut2_20250726_223450
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_205_mut2_20250726_223450
+日志文件: mac_sch_205_mut2_phone_log_20250726_223450.log
+----------------------------------------
+文件夹名称: mac_sch_197_mut5_20250726_163155
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_197_mut5_20250726_163155
+日志文件: mac_sch_197_mut5_phone_log_20250726_163155.log
+----------------------------------------
+文件夹名称: mac_sch_80_mut5_20250727_172344
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_80_mut5_20250727_172344
+日志文件: mac_sch_80_mut5_phone_log_20250727_172344.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut4_20250728_015944
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_52_mut4_20250728_015944
+日志文件: mac_sch_52_mut4_phone_log_20250728_015944.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut12_20250727_024317
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_29_mut12_20250727_024317
+日志文件: mac_sch_29_mut12_phone_log_20250727_024317.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut1_20250727_170422
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_7_mut1_20250727_170422
+日志文件: mac_sch_7_mut1_phone_log_20250727_170422.log
+----------------------------------------
+文件夹名称: mac_sch_178_mut7_20250726_001553
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_178_mut7_20250726_001553
+日志文件: mac_sch_178_mut7_phone_log_20250726_001553.log
+----------------------------------------
+文件夹名称: mac_sch_166_mut2_20250725_225745
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_166_mut2_20250725_225745
+日志文件: mac_sch_166_mut2_phone_log_20250725_225745.log
+----------------------------------------
+文件夹名称: mac_sch_46_mut2_20250727_105520
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_46_mut2_20250727_105520
+日志文件: mac_sch_46_mut2_phone_log_20250727_105520.log
+----------------------------------------
+文件夹名称: mac_sch_4_mut3_20250728_023244
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_4_mut3_20250728_023244
+日志文件: mac_sch_4_mut3_phone_log_20250728_023244.log
+----------------------------------------
+文件夹名称: mac_sch_68_mut5_20250727_155302
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_68_mut5_20250727_155302
+日志文件: mac_sch_68_mut5_phone_log_20250727_155302.log
+----------------------------------------
+文件夹名称: mac_sch_146_mut6_20250725_170734
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_146_mut6_20250725_170734
+日志文件: mac_sch_146_mut6_phone_log_20250725_170734.log
+----------------------------------------
+文件夹名称: mac_sch_30_mut1_20250728_013049
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_30_mut1_20250728_013049
+日志文件: mac_sch_30_mut1_phone_log_20250728_013049.log
+----------------------------------------
+文件夹名称: mac_sch_41_mut1_20250727_103953
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_41_mut1_20250727_103953
+日志文件: mac_sch_41_mut1_phone_log_20250727_103953.log
+----------------------------------------
+文件夹名称: mac_sch_192_mut6_20250726_155516
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_192_mut6_20250726_155516
+日志文件: mac_sch_192_mut6_phone_log_20250726_155516.log
+----------------------------------------
+文件夹名称: mac_sch_82_mut4_20250727_174652
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_82_mut4_20250727_174652
+日志文件: mac_sch_82_mut4_phone_log_20250727_174652.log
+----------------------------------------
+文件夹名称: mac_sch_168_mut5_20250725_231313
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_168_mut5_20250725_231313
+日志文件: mac_sch_168_mut5_phone_log_20250725_231313.log
+----------------------------------------
+文件夹名称: mac_sch_70_mut3_20250727_161022
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_70_mut3_20250727_161022
+日志文件: mac_sch_70_mut3_phone_log_20250727_161022.log
+----------------------------------------
+文件夹名称: mac_sch_6_mut6_20250727_160432
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_6_mut6_20250727_160432
+日志文件: mac_sch_6_mut6_phone_log_20250727_160432.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut24_20250717_094309
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut24_20250717_094309
+日志文件: mac_sch_12_mut24_phone_log_20250717_094309.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut25_20250725_004707
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_13_mut25_20250725_004707
+日志文件: mac_sch_13_mut25_phone_log_20250725_004707.log
+----------------------------------------
+文件夹名称: mac_sch_100_mut4_20250716_114132
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_100_mut4_20250716_114132
+日志文件: mac_sch_100_mut4_phone_log_20250716_114132.log
+----------------------------------------
+文件夹名称: mac_sch_172_mut7_20250725_233034
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_172_mut7_20250725_233034
+日志文件: mac_sch_172_mut7_phone_log_20250725_233034.log
+----------------------------------------
+文件夹名称: mac_sch_16_mut1_20250725_231703
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_16_mut1_20250725_231703
+日志文件: mac_sch_16_mut1_phone_log_20250725_231703.log
+----------------------------------------
+文件夹名称: mac_sch_146_mut3_20250725_170148
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_146_mut3_20250725_170148
+日志文件: mac_sch_146_mut3_phone_log_20250725_170148.log
+----------------------------------------
+文件夹名称: mac_sch_84_mut4_20250727_192641
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_84_mut4_20250727_192641
+日志文件: mac_sch_84_mut4_phone_log_20250727_192641.log
+----------------------------------------
+文件夹名称: mac_sch_192_mut2_20250726_154734
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_192_mut2_20250726_154734
+日志文件: mac_sch_192_mut2_phone_log_20250726_154734.log
+----------------------------------------
+文件夹名称: mac_sch_63_mut1_20250727_140240
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_63_mut1_20250727_140240
+日志文件: mac_sch_63_mut1_phone_log_20250727_140240.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut53_20250725_193347
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut53_20250725_193347
+日志文件: mac_sch_14_mut53_phone_log_20250725_193347.log
+----------------------------------------
+文件夹名称: mac_sch_172_mut5_20250725_232643
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_172_mut5_20250725_232643
+日志文件: mac_sch_172_mut5_phone_log_20250725_232643.log
+----------------------------------------
+文件夹名称: mac_sch_79_mut5_20250727_170225
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_79_mut5_20250727_170225
+日志文件: mac_sch_79_mut5_phone_log_20250727_170225.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut4_20250727_171010
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_7_mut4_20250727_171010
+日志文件: mac_sch_7_mut4_phone_log_20250727_171010.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut11_20250727_024122
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_29_mut11_20250727_024122
+日志文件: mac_sch_29_mut11_phone_log_20250727_024122.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut30_20250725_161656
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_13_mut30_20250725_161656
+日志文件: mac_sch_13_mut30_phone_log_20250725_161656.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut3_20250727_170814
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_7_mut3_20250727_170814
+日志文件: mac_sch_7_mut3_phone_log_20250727_170814.log
+----------------------------------------
+文件夹名称: mac_sch_99_mut6_20250728_000456
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_99_mut6_20250728_000456
+日志文件: mac_sch_99_mut6_phone_log_20250728_000456.log
+----------------------------------------
+文件夹名称: mac_sch_178_mut3_20250726_001007
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_178_mut3_20250726_001007
+日志文件: mac_sch_178_mut3_phone_log_20250726_001007.log
+----------------------------------------
+文件夹名称: mac_sch_101_mut3_20250725_014307
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_101_mut3_20250725_014307
+日志文件: mac_sch_101_mut3_phone_log_20250725_014307.log
+----------------------------------------
+文件夹名称: mac_sch_30_mut2_20250727_094401
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_30_mut2_20250727_094401
+日志文件: mac_sch_30_mut2_phone_log_20250727_094401.log
+----------------------------------------
+文件夹名称: mac_sch_102_mut6_20250725_020031
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_102_mut6_20250725_020031
+日志文件: mac_sch_102_mut6_phone_log_20250725_020031.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut1_20250727_104148
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_43_mut1_20250727_104148
+日志文件: mac_sch_43_mut1_phone_log_20250727_104148.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut4_20250727_104737
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_43_mut4_20250727_104737
+日志文件: mac_sch_43_mut4_phone_log_20250727_104737.log
+----------------------------------------
+文件夹名称: mac_sch_143_mut2_20250725_013519
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_143_mut2_20250725_013519
+日志文件: mac_sch_143_mut2_phone_log_20250725_013519.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut60_20250724_182929
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut60_20250724_182929
+日志文件: mac_sch_12_mut60_phone_log_20250724_182929.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut4_20250724_190957
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_136_mut4_20250724_190957
+日志文件: mac_sch_136_mut4_phone_log_20250724_190957.log
+----------------------------------------
+文件夹名称: mac_sch_200_mut6_20250726_220947
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_200_mut6_20250726_220947
+日志文件: mac_sch_200_mut6_phone_log_20250726_220947.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut44_20250725_191432
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut44_20250725_191432
+日志文件: mac_sch_14_mut44_phone_log_20250725_191432.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut55_20250724_181758
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut55_20250724_181758
+日志文件: mac_sch_12_mut55_phone_log_20250724_181758.log
+----------------------------------------
+文件夹名称: mac_sch_187_mut4_20250726_031530
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_187_mut4_20250726_031530
+日志文件: mac_sch_187_mut4_phone_log_20250726_031530.log
+----------------------------------------
+文件夹名称: mac_sch_87_mut4_20250727_195732
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_87_mut4_20250727_195732
+日志文件: mac_sch_87_mut4_phone_log_20250727_195732.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut24_20250725_004512
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_13_mut24_20250725_004512
+日志文件: mac_sch_13_mut24_phone_log_20250725_004512.log
+----------------------------------------
+文件夹名称: mac_sch_79_mut1_20250727_165442
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_79_mut1_20250727_165442
+日志文件: mac_sch_79_mut1_phone_log_20250727_165442.log
+----------------------------------------
+文件夹名称: mac_sch_77_mut4_20250727_163721
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_77_mut4_20250727_163721
+日志文件: mac_sch_77_mut4_phone_log_20250727_163721.log
+----------------------------------------
+文件夹名称: mac_sch_196_mut2_20250726_161434
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_196_mut2_20250726_161434
+日志文件: mac_sch_196_mut2_phone_log_20250726_161434.log
+----------------------------------------
+文件夹名称: mac_sch_119_mut4_20250725_125220
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_119_mut4_20250725_125220
+日志文件: mac_sch_119_mut4_phone_log_20250725_125220.log
+----------------------------------------
+文件夹名称: mac_sch_81_mut6_20250727_173908
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_81_mut6_20250727_173908
+日志文件: mac_sch_81_mut6_phone_log_20250727_173908.log
+----------------------------------------
+文件夹名称: mac_sch_186_mut6_20250726_024421
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_186_mut6_20250726_024421
+日志文件: mac_sch_186_mut6_phone_log_20250726_024421.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut6_20250724_191350
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_136_mut6_20250724_191350
+日志文件: mac_sch_136_mut6_phone_log_20250724_191350.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut2_20250728_001041
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_9_mut2_20250728_001041
+日志文件: mac_sch_9_mut2_phone_log_20250728_001041.log
+----------------------------------------
+文件夹名称: mac_sch_197_mut2_20250726_162609
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_197_mut2_20250726_162609
+日志文件: mac_sch_197_mut2_phone_log_20250726_162609.log
+----------------------------------------
+文件夹名称: mac_sch_117_mut6_20250725_123656
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_117_mut6_20250725_123656
+日志文件: mac_sch_117_mut6_phone_log_20250725_123656.log
+----------------------------------------
+文件夹名称: mac_sch_86_mut4_20250727_194557
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_86_mut4_20250727_194557
+日志文件: mac_sch_86_mut4_phone_log_20250727_194557.log
+----------------------------------------
+文件夹名称: mac_sch_187_mut1_20250726_025146
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_187_mut1_20250726_025146
+日志文件: mac_sch_187_mut1_phone_log_20250726_025146.log
+----------------------------------------
+文件夹名称: mac_sch_192_mut3_20250726_154929
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_192_mut3_20250726_154929
+日志文件: mac_sch_192_mut3_phone_log_20250726_154929.log
+----------------------------------------
+文件夹名称: mac_sch_70_mut4_20250727_161217
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_70_mut4_20250727_161217
+日志文件: mac_sch_70_mut4_phone_log_20250727_161217.log
+----------------------------------------
+文件夹名称: mac_sch_87_mut5_20250727_195927
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_87_mut5_20250727_195927
+日志文件: mac_sch_87_mut5_phone_log_20250727_195927.log
+----------------------------------------
+文件夹名称: mac_sch_204_mut2_20250726_222513
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_204_mut2_20250726_222513
+日志文件: mac_sch_204_mut2_phone_log_20250726_222513.log
+----------------------------------------
+文件夹名称: mac_sch_125_mut5_20250725_132114
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_125_mut5_20250725_132114
+日志文件: mac_sch_125_mut5_phone_log_20250725_132114.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut58_20250725_194323
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut58_20250725_194323
+日志文件: mac_sch_14_mut58_phone_log_20250725_194323.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut61_20250724_183124
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_12_mut61_20250724_183124
+日志文件: mac_sch_12_mut61_phone_log_20250724_183124.log
+----------------------------------------
+文件夹名称: mac_sch_174_mut3_20250725_235247
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_174_mut3_20250725_235247
+日志文件: mac_sch_174_mut3_phone_log_20250725_235247.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut1_20250727_124339
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_52_mut1_20250727_124339
+日志文件: mac_sch_52_mut1_phone_log_20250727_124339.log
+----------------------------------------
+文件夹名称: mac_sch_194_mut3_20250726_160454
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_194_mut3_20250726_160454
+日志文件: mac_sch_194_mut3_phone_log_20250726_160454.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut46_20250725_191822
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut46_20250725_191822
+日志文件: mac_sch_14_mut46_phone_log_20250725_191822.log
+----------------------------------------
+文件夹名称: mac_sch_139_mut1_20250725_161109
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_139_mut1_20250725_161109
+日志文件: mac_sch_139_mut1_phone_log_20250725_161109.log
+----------------------------------------
+文件夹名称: mac_sch_105_mut4_20250716_124002
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_105_mut4_20250716_124002
+日志文件: mac_sch_105_mut4_phone_log_20250716_124002.log
+----------------------------------------
+文件夹名称: mac_sch_200_mut2_20250726_220204
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_200_mut2_20250726_220204
+日志文件: mac_sch_200_mut2_phone_log_20250726_220204.log
+----------------------------------------
+文件夹名称: mac_sch_205_mut4_20250726_223842
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_205_mut4_20250726_223842
+日志文件: mac_sch_205_mut4_phone_log_20250726_223842.log
+----------------------------------------
+文件夹名称: mac_sch_81_mut4_20250727_173518
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_81_mut4_20250727_173518
+日志文件: mac_sch_81_mut4_phone_log_20250727_173518.log
+----------------------------------------
+文件夹名称: mac_sch_205_mut3_20250726_223646
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_205_mut3_20250726_223646
+日志文件: mac_sch_205_mut3_phone_log_20250726_223646.log
+----------------------------------------
+文件夹名称: mac_sch_196_mut6_20250726_162217
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_196_mut6_20250726_162217
+日志文件: mac_sch_196_mut6_phone_log_20250726_162217.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut6_20250727_125318
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_52_mut6_20250727_125318
+日志文件: mac_sch_52_mut6_phone_log_20250727_125318.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut48_20250725_192213
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut48_20250725_192213
+日志文件: mac_sch_14_mut48_phone_log_20250725_192213.log
+----------------------------------------
+文件夹名称: mac_sch_185_mut1_20250726_021144
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_185_mut1_20250726_021144
+日志文件: mac_sch_185_mut1_phone_log_20250726_021144.log
+----------------------------------------
+文件夹名称: mac_sch_151_mut5_20250725_202200
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_151_mut5_20250725_202200
+日志文件: mac_sch_151_mut5_phone_log_20250725_202200.log
+----------------------------------------
+文件夹名称: mac_sch_138_mut4_20250724_192131
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_138_mut4_20250724_192131
+日志文件: mac_sch_138_mut4_phone_log_20250724_192131.log
+----------------------------------------
+文件夹名称: mac_sch_185_mut6_20250726_021934
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_185_mut6_20250726_021934
+日志文件: mac_sch_185_mut6_phone_log_20250726_021934.log
+----------------------------------------
+文件夹名称: mac_sch_166_mut3_20250725_225941
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_166_mut3_20250725_225941
+日志文件: mac_sch_166_mut3_phone_log_20250725_225941.log
+----------------------------------------
+文件夹名称: mac_sch_139_mut4_20250724_193306
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_139_mut4_20250724_193306
+日志文件: mac_sch_139_mut4_phone_log_20250724_193306.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut3_20250727_104540
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_43_mut3_20250727_104540
+日志文件: mac_sch_43_mut3_phone_log_20250727_104540.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut50_20250725_192759
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut50_20250725_192759
+日志文件: mac_sch_14_mut50_phone_log_20250725_192759.log
+----------------------------------------
+文件夹名称: mac_sch_27_mut7_20250727_020641
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_27_mut7_20250727_020641
+日志文件: mac_sch_27_mut7_phone_log_20250727_020641.log
+----------------------------------------
+文件夹名称: mac_sch_115_mut3_20250716_200400
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_115_mut3_20250716_200400
+日志文件: mac_sch_115_mut3_phone_log_20250716_200400.log
+----------------------------------------
+文件夹名称: mac_sch_100_mut6_20250716_114511
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_100_mut6_20250716_114511
+日志文件: mac_sch_100_mut6_phone_log_20250716_114511.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut13_20250727_024513
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_29_mut13_20250727_024513
+日志文件: mac_sch_29_mut13_phone_log_20250727_024513.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut1_20250724_190410
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_136_mut1_20250724_190410
+日志文件: mac_sch_136_mut1_phone_log_20250724_190410.log
+----------------------------------------
+文件夹名称: mac_sch_91_mut2_20250727_202825
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_91_mut2_20250727_202825
+日志文件: mac_sch_91_mut2_phone_log_20250727_202825.log
+----------------------------------------
+文件夹名称: mac_sch_143_mut1_20250725_013324
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_143_mut1_20250725_013324
+日志文件: mac_sch_143_mut1_phone_log_20250725_013324.log
+----------------------------------------
+文件夹名称: mac_sch_30_mut5_20250727_094753
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_30_mut5_20250727_094753
+日志文件: mac_sch_30_mut5_phone_log_20250727_094753.log
+----------------------------------------
+文件夹名称: mac_sch_87_mut6_20250727_200123
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_87_mut6_20250727_200123
+日志文件: mac_sch_87_mut6_phone_log_20250727_200123.log
+----------------------------------------
+文件夹名称: mac_sch_194_mut4_20250726_160651
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_194_mut4_20250726_160651
+日志文件: mac_sch_194_mut4_phone_log_20250726_160651.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut2_20250727_170618
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_7_mut2_20250727_170618
+日志文件: mac_sch_7_mut2_phone_log_20250727_170618.log
+----------------------------------------
+文件夹名称: mac_sch_113_mut4_20250716_195304
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_113_mut4_20250716_195304
+日志文件: mac_sch_113_mut4_phone_log_20250716_195304.log
+----------------------------------------
+文件夹名称: mac_sch_187_mut3_20250726_030723
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_187_mut3_20250726_030723
+日志文件: mac_sch_187_mut3_phone_log_20250726_030723.log
+----------------------------------------
+文件夹名称: mac_sch_145_mut6_20250728_004229
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_145_mut6_20250728_004229
+日志文件: mac_sch_145_mut6_phone_log_20250728_004229.log
+----------------------------------------
+文件夹名称: mac_sch_197_mut3_20250726_162805
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_197_mut3_20250726_162805
+日志文件: mac_sch_197_mut3_phone_log_20250726_162805.log
+----------------------------------------
+文件夹名称: mac_sch_100_mut3_20250725_013916
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_100_mut3_20250725_013916
+日志文件: mac_sch_100_mut3_phone_log_20250725_013916.log
+----------------------------------------
+文件夹名称: mac_sch_191_mut2_20250726_153600
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_191_mut2_20250726_153600
+日志文件: mac_sch_191_mut2_phone_log_20250726_153600.log
+----------------------------------------
+文件夹名称: mac_sch_108_mut3_20250716_190918
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_108_mut3_20250716_190918
+日志文件: mac_sch_108_mut3_phone_log_20250716_190918.log
+----------------------------------------
+文件夹名称: mac_sch_99_mut5_20250728_000301
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_99_mut5_20250728_000301
+日志文件: mac_sch_99_mut5_phone_log_20250728_000301.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut49_20250725_192409
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut49_20250725_192409
+日志文件: mac_sch_14_mut49_phone_log_20250725_192409.log
+----------------------------------------
+文件夹名称: mac_sch_118_mut6_20250725_124438
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_118_mut6_20250725_124438
+日志文件: mac_sch_118_mut6_phone_log_20250725_124438.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut56_20250725_193932
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_14_mut56_20250725_193932
+日志文件: mac_sch_14_mut56_phone_log_20250725_193932.log
+----------------------------------------
+文件夹名称: mac_sch_104_mut7_20250716_123243
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_104_mut7_20250716_123243
+日志文件: mac_sch_104_mut7_phone_log_20250716_123243.log
+----------------------------------------
+文件夹名称: mac_sch_27_mut5_20250727_020249
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_27_mut5_20250727_020249
+日志文件: mac_sch_27_mut5_phone_log_20250727_020249.log
+----------------------------------------
+文件夹名称: mac_sch_205_mut7_20250726_224429
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/oneplus13/mac_sch_205_mut7_20250726_224429
+日志文件: mac_sch_205_mut7_phone_log_20250726_224429.log
+----------------------------------------

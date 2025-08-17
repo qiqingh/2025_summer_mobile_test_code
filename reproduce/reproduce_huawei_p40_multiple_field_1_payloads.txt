@@ -1,0 +1,29 @@
+# 扫描时间: 2025-07-27 21:05:17
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40
+# 找到 6 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_multi_22_24_9_23_group13_combo61_case1076_20250717_024154
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40/mac_sch_multi_22_24_9_23_group13_combo61_case1076_20250717_024154
+日志文件: mac_sch_multi_22_24_9_23_group13_combo61_case1076_phone_log_20250717_024154.log
+----------------------------------------
+文件夹名称: mac_sch_multi_46_136_197_196_group6_combo33_case1367_20250717_122813
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40/mac_sch_multi_46_136_197_196_group6_combo33_case1367_20250717_122813
+日志文件: mac_sch_multi_46_136_197_196_group6_combo33_case1367_phone_log_20250717_122813.log
+----------------------------------------
+文件夹名称: mac_sch_multi_19_23_7_group13_combo51_case808_20250716_112053
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40/mac_sch_multi_19_23_7_group13_combo51_case808_20250716_112053
+日志文件: mac_sch_multi_19_23_7_group13_combo51_case808_phone_log_20250716_112053.log
+----------------------------------------
+文件夹名称: mac_sch_multi_24_9_7_group13_combo42_case629_20250717_054645
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40/mac_sch_multi_24_9_7_group13_combo42_case629_20250717_054645
+日志文件: mac_sch_multi_24_9_7_group13_combo42_case629_phone_log_20250717_054645.log
+----------------------------------------
+文件夹名称: mac_sch_multi_51_43_sg_supergroup_pdcch_Config_combo0_case12_20250717_164747
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40/mac_sch_multi_51_43_sg_supergroup_pdcch_Config_combo0_case12_20250717_164747
+日志文件: mac_sch_multi_51_43_sg_supergroup_pdcch_Config_combo0_case12_phone_log_20250717_164747.log
+----------------------------------------
+文件夹名称: mac_sch_multi_40_6_79_136_group9_combo51_case332_20250717_100254
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/multiple_field_results/test_group_1/huawei_p40/mac_sch_multi_40_6_79_136_group9_combo51_case332_20250717_100254
+日志文件: mac_sch_multi_40_6_79_136_group9_combo51_case332_phone_log_20250717_100254.log
+----------------------------------------

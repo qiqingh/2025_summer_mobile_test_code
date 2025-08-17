@@ -1,0 +1,205 @@
+05/09
+    先回退到小的改动的DL_CCCH_Message上，整理代码编译出来 完成
+    再次理解下5ghoul的工作流程，能明白它内部自带的修改包的长度的逻辑并且能直接调用最好
+    分析hw日志
+        如果beginning of crash作为crash indicator不行的话，而且也找不到别的crash indicator
+        那么就先按没能连接上基站的来看看？
+    多个field的设计下二分法怎么来进行mutation，先就在原先的包的基础上进行尝试
+
+启动现在打包好的镜像
+
+sudo docker run -it \
+  --name oai25_testing \
+  --cpus="8" \
+  --privileged \
+  --ipc=host \
+  --network=host \
+  --mount type=tmpfs,destination=/dev/shm \
+  --mount type=tmpfs,destination=/dev/mqueue \
+  kqing0515/oai_testing:v3
+
+重新进入
+
+sudo docker exec -it oai_testing_final /bin/bash
+
+
+sudo touch /usr/include/tbb/tbb_stddef.h
+echo "#include <oneapi/tbb/version.h>" | sudo tee /usr/include/tbb/tbb_stddef.h
+
+
+find /usr -name "json.h" 2>/dev/null | grep json
+ls -la /usr/local/include/json-c/
+ls -la /usr/include/json-c/
+
+libssl1.1 
+# For Ubuntu 20.04/22.04
+wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2_amd64.deb
+
+ModulesInclude.hpp 改动了
+
+#include <string>
+using std::string;
+
+
+3rd-party/open5gs-core/build/tests/app/5gc
+
+
+sudo docker inspect 8c0c1bb228eb | grep -E '(Memory|CpuShares)'
+
+sudo docker stats 8c0c1bb228eb
+
+sudo docker commit <容器ID或名称> <新镜像名>:<标签>
+
+sudo bin/5g_fuzzer --EnableSimulator=true --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false
+
+sudo bin/5g_fuzzer --list-exploits
+
+./build_oai -I -w USRP --gNB --ninja --noavx512
+
+
+07/02
+    重新整理之前跑的记录，补充没有做完的部分
+
+    asus
+
+        mac_sch_multi_181_187_size2_1066_2_reconstructed_offset
+
+        sudo bin/5g_fuzzer --EnableSimulator=false --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false --exploit=mac_sch_multi_181_187_size2_1066_2_reconstructed_offset 
+
+        mac_sch_multi_149_150_combo2_7_reconstructed_offset
+
+        sudo bin/5g_fuzzer --EnableSimulator=false --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false --exploit=mac_sch_multi_149_150_combo2_7_reconstructed_offset
+
+07/12
+    C1
+        Encoding Constraint
+        Must follow ASN.1 encoding structure
+        startSymbolAndLength ∈ [0,127] （has CVE case）
+    C2
+        Field-Level Constraint
+        Fields that accept multiple legal values in ASN.1, but the implementation only supports a subset, causing crashes when unsupported values are used.
+        Tag-id, resourceSetId, typeA/typeB (has CVE case)
+    C3
+        Cross-Field Constraints
+        Fields must follow mutual consistency
+        schedulingRequestResourceId, schedulingRequestID and resource (has CVE case)
+    C4
+        Structural Constraints
+        Fields allowed in certain message types only
+        Inject DRB/MRB into RRCSetup (observed AssertFatal)
+    C5
+        Conditional Presence Constraints
+        Optional fields become mandatory under conditions
+        Omitting fields marked with need S, need R
+
+    brute_force跑multiple fields的测试
+        1. 暴力控制数量的2-pair 在错的环境里面编译了
+        2. 拆分成同路径的子树，子树里面进行2，3，4，5-pair
+
+07/13 
+    其实关键还是怎么提取constraints
+    还有怎么根据constraints输入进行修改包（增加或者删除字段）
+        其实就是怎么自动化增加/删除字段 这一块还是需要写一个自动化工具来进行
+
+    把pixel之前跑的记录一下
+
+    同时也要生成新的（ASN加强）single field重新跑一遍手机吧 还是先拿pixel开刀
+
+    sudo bin/5g_fuzzer --EnableSimulator=true --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false --exploit=mac_sch_multi_521_473_combo_327_v0
+
+    sudo uhd_usrp_probe
+
+    sudo uhd_find_devices
+
+    sudo bin/5g_fuzzer --EnableSimulator=true --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false
+
+07/15
+    git clone https://github.com/qiqingh/tmp_brute_force_2_Pair
+
+
+sudo docker pull kqing0515/oai_testing:v3
+
+sudo docker run -dit \
+    --name oai25_testing \
+    --privileged \
+    --ipc=host \
+    --network=host \
+    --mount type=tmpfs,destination=/dev/shm \
+    --mount type=tmpfs,destination=/dev/mqueue \
+    kqing0515/oai_testing:v3
+
+    oai25-testing-3
+        ssh -i /Users/qiqingh/Desktop/ssh_key/id_ed25519 qiqinghu@34.136.12.231
+
+    sudo docker run -dit \
+        --name oai_testing_1 \
+        --ipc=private \
+        --shm-size=4g \
+        -v $(pwd)/logs1:/app/logs \
+        kqing0515/oai_testing:v3
+
+    sudo rm -f /dev/mqueue/*
+
+    sudo bin/5g_fuzzer --EnableSimulator=true --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false
+
+    sudo bin/5g_fuzzer --EnableSimulator=false --MCC=001 --MNC=01 --GlobalTimeout=false --EnableMutation=false
+
+
+
+07/15
+    最后尝试排查下容器的问题吧
+    本地不能跑起来多个也就算了。gcp上为什么跑不起来呢？
+        重新讨论写了脚本进行环境差异的排查
+        GCP那边的oai可能需要重新编译。CPU指令集不一样
+
+
+./nr-softmodem --sa --continuous-tx -E -O /home/5ghoul-5g-nr-attacks/configs/5gnr_gnb/rfsim.n78.106.conf --rfsim
+
+./nr-uesoftmodem -r 106 --numerology 1 --band 78 -E -C 3619200000 --rfsim --sa --ssb 516 -O /home/5ghoul-5g-nr-attacks/configs/5gnr_gnb/ue.conf
+
+./nr-uesoftmodem -r 106 --numerology 1 --band 78 -E -C 3619200000 --rfsim --ssb 516 -O /home/5ghoul-5g-nr-attacks/configs/5gnr_gnb/ue.conf
+
+好奇怪。单独跑说是--sa option有问题
+
+./build_oai -I -w USRP --gNB --nrUE --ninja --noavx512
+
+sudo apt-mark hold libuhd4.1.0 libuhd4.5.0
+
+可能要不还是完整地全部重新编译下？
+    跟是否启用“--noavx512” 选项也没关系，还是--sa引起的问题，很奇怪
+
+发现5ghoul自己封装的docker在gcp上面好像也是跑不起来。。base station直接stop
+
+
+07/15
+    C4试了下正则表达式提取，效果不是很好
+
+    提取出来所有的ASN.1编码规则
+
+    然后还是改用LLM跑C4
+
+    C5其实更好做
+
+    C3整合一下2-Pair和single field的差集
+
+    然后手工分析UE代码挖掘一下
+
+07/26
+    manually adb
+	    adb logcat -v time | tee logcat_output.txt | egrep -i "sigabrt|sigsegv|fatal signal"
+
+07/30 
+    我怀疑adb logcat里面显示不出来太多的信息了。一些beginning of crash可能只是用户态进程的崩溃
+
+    所以可能还是得筛选出来连接不上基站的，从行为上进行判断。放长点时间
+
+    可是这里连接不上基站也不一定是问题吧？因为我是发送了篡改后的RRC setup消息包。连接不上也是正常？就是很多还是给建立了连接
+
+08/12
+intra-IE 
+    explicit constraints 81
+    implicit constraints 222
+inter-IE 
+    explicit constraints 176
+    implicit constraints 741

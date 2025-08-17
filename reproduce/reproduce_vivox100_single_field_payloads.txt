@@ -1,0 +1,577 @@
+# 扫描时间: 2025-07-27 21:18:34
+# 扫描路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100
+# 找到 143 个需要重现的payload
+############################################################
+
+文件夹名称: mac_sch_12_mut60_20250714_085429
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_12_mut60_20250714_085429
+日志文件: mac_sch_12_mut60_phone_log_20250714_085429.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut59_20250714_163223
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut59_20250714_163223
+日志文件: mac_sch_14_mut59_phone_log_20250714_163223.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut4_20250714_093125
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_136_mut4_20250714_093125
+日志文件: mac_sch_136_mut4_phone_log_20250714_093125.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut3_20250715_175312
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_7_mut3_20250715_175312
+日志文件: mac_sch_7_mut3_phone_log_20250715_175312.log
+----------------------------------------
+文件夹名称: mac_sch_154_mut5_20250714_172411
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_154_mut5_20250714_172411
+日志文件: mac_sch_154_mut5_phone_log_20250714_172411.log
+----------------------------------------
+文件夹名称: mac_sch_92_mut4_20250715_194545
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_92_mut4_20250715_194545
+日志文件: mac_sch_92_mut4_phone_log_20250715_194545.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut4_20250715_054257
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut4_20250715_054257
+日志文件: mac_sch_20_mut4_phone_log_20250715_054257.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut3_20250714_092940
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_136_mut3_20250714_092940
+日志文件: mac_sch_136_mut3_phone_log_20250714_092940.log
+----------------------------------------
+文件夹名称: mac_sch_27_mut7_20250715_071949
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_27_mut7_20250715_071949
+日志文件: mac_sch_27_mut7_phone_log_20250715_071949.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut62_20250714_163929
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut62_20250714_163929
+日志文件: mac_sch_14_mut62_phone_log_20250714_163929.log
+----------------------------------------
+文件夹名称: mac_sch_46_mut5_20250715_093238
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_46_mut5_20250715_093238
+日志文件: mac_sch_46_mut5_phone_log_20250715_093238.log
+----------------------------------------
+文件夹名称: mac_sch_155_mut5_20250714_173302
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_155_mut5_20250714_173302
+日志文件: mac_sch_155_mut5_phone_log_20250714_173302.log
+----------------------------------------
+文件夹名称: mac_sch_179_mut5_20250714_201259
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_179_mut5_20250714_201259
+日志文件: mac_sch_179_mut5_phone_log_20250714_201259.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut28_20250714_132821
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut28_20250714_132821
+日志文件: mac_sch_13_mut28_phone_log_20250714_132821.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut4_20250715_092018
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_43_mut4_20250715_092018
+日志文件: mac_sch_43_mut4_phone_log_20250715_092018.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut63_20250714_085945
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_12_mut63_20250714_085945
+日志文件: mac_sch_12_mut63_phone_log_20250714_085945.log
+----------------------------------------
+文件夹名称: mac_sch_82_mut6_20250715_183153
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_82_mut6_20250715_183153
+日志文件: mac_sch_82_mut6_phone_log_20250715_183153.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut1_20250715_052707
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut1_20250715_052707
+日志文件: mac_sch_20_mut1_phone_log_20250715_052707.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut12_20250715_075327
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_29_mut12_20250715_075327
+日志文件: mac_sch_29_mut12_phone_log_20250715_075327.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut44_20250714_235048
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut44_20250714_235048
+日志文件: mac_sch_18_mut44_phone_log_20250714_235048.log
+----------------------------------------
+文件夹名称: mac_sch_145_mut6_20250714_143059
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_145_mut6_20250714_143059
+日志文件: mac_sch_145_mut6_phone_log_20250714_143059.log
+----------------------------------------
+文件夹名称: mac_sch_166_mut4_20250714_190201
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_166_mut4_20250714_190201
+日志文件: mac_sch_166_mut4_phone_log_20250714_190201.log
+----------------------------------------
+文件夹名称: mac_sch_11_mut1_20250714_060344
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_11_mut1_20250714_060344
+日志文件: mac_sch_11_mut1_phone_log_20250714_060344.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut60_20250714_163556
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut60_20250714_163556
+日志文件: mac_sch_14_mut60_phone_log_20250714_163556.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut51_20250714_161812
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut51_20250714_161812
+日志文件: mac_sch_14_mut51_phone_log_20250714_161812.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut41_20250714_234522
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut41_20250714_234522
+日志文件: mac_sch_18_mut41_phone_log_20250714_234522.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut30_20250714_133338
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut30_20250714_133338
+日志文件: mac_sch_13_mut30_phone_log_20250714_133338.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut62_20250714_085759
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_12_mut62_20250714_085759
+日志文件: mac_sch_12_mut62_phone_log_20250714_085759.log
+----------------------------------------
+文件夹名称: mac_sch_92_mut5_20250715_194731
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_92_mut5_20250715_194731
+日志文件: mac_sch_92_mut5_phone_log_20250715_194731.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut24_20250714_132118
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut24_20250714_132118
+日志文件: mac_sch_13_mut24_phone_log_20250714_132118.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut6_20250715_054627
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut6_20250715_054627
+日志文件: mac_sch_20_mut6_phone_log_20250715_054627.log
+----------------------------------------
+文件夹名称: mac_sch_86_mut5_20250715_190001
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_86_mut5_20250715_190001
+日志文件: mac_sch_86_mut5_phone_log_20250715_190001.log
+----------------------------------------
+文件夹名称: mac_sch_154_mut6_20250714_172558
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_154_mut6_20250714_172558
+日志文件: mac_sch_154_mut6_phone_log_20250714_172558.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut6_20250715_175828
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_7_mut6_20250715_175828
+日志文件: mac_sch_7_mut6_phone_log_20250715_175828.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut5_20250715_054441
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut5_20250715_054441
+日志文件: mac_sch_20_mut5_phone_log_20250715_054441.log
+----------------------------------------
+文件夹名称: mac_sch_16_mut1_20250714_191608
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_16_mut1_20250714_191608
+日志文件: mac_sch_16_mut1_phone_log_20250714_191608.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut1_20250715_174941
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_7_mut1_20250715_174941
+日志文件: mac_sch_7_mut1_phone_log_20250715_174941.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut1_20250715_074807
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_29_mut1_20250715_074807
+日志文件: mac_sch_29_mut1_phone_log_20250715_074807.log
+----------------------------------------
+文件夹名称: mac_sch_126_mut5_20250714_063708
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_126_mut5_20250714_063708
+日志文件: mac_sch_126_mut5_phone_log_20250714_063708.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut54_20250714_162332
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut54_20250714_162332
+日志文件: mac_sch_14_mut54_phone_log_20250714_162332.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut34_20250714_233049
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut34_20250714_233049
+日志文件: mac_sch_18_mut34_phone_log_20250714_233049.log
+----------------------------------------
+文件夹名称: mac_sch_52_mut1_20250715_100323
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_52_mut1_20250715_100323
+日志文件: mac_sch_52_mut1_phone_log_20250715_100323.log
+----------------------------------------
+文件夹名称: mac_sch_165_mut1_20250714_184751
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_165_mut1_20250714_184751
+日志文件: mac_sch_165_mut1_phone_log_20250714_184751.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut5_20250715_204213
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_9_mut5_20250715_204213
+日志文件: mac_sch_9_mut5_phone_log_20250715_204213.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut2_20250715_053926
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut2_20250715_053926
+日志文件: mac_sch_20_mut2_phone_log_20250715_053926.log
+----------------------------------------
+文件夹名称: mac_sch_6_mut1_20250715_164811
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_6_mut1_20250715_164811
+日志文件: mac_sch_6_mut1_phone_log_20250715_164811.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut45_20250714_160544
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut45_20250714_160544
+日志文件: mac_sch_14_mut45_phone_log_20250714_160544.log
+----------------------------------------
+文件夹名称: mac_sch_41_mut1_20250715_091314
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_41_mut1_20250715_091314
+日志文件: mac_sch_41_mut1_phone_log_20250715_091314.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut3_20250715_054111
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut3_20250715_054111
+日志文件: mac_sch_20_mut3_phone_log_20250715_054111.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut7_20250715_054812
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut7_20250715_054812
+日志文件: mac_sch_20_mut7_phone_log_20250715_054812.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut27_20250714_132636
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut27_20250714_132636
+日志文件: mac_sch_13_mut27_phone_log_20250714_132636.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut15_20250715_075843
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_29_mut15_20250715_075843
+日志文件: mac_sch_29_mut15_phone_log_20250715_075843.log
+----------------------------------------
+文件夹名称: mac_sch_126_mut4_20250714_063523
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_126_mut4_20250714_063523
+日志文件: mac_sch_126_mut4_phone_log_20250714_063523.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut4_20250715_175457
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_7_mut4_20250715_175457
+日志文件: mac_sch_7_mut4_phone_log_20250715_175457.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut55_20250714_162518
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut55_20250714_162518
+日志文件: mac_sch_14_mut55_phone_log_20250714_162518.log
+----------------------------------------
+文件夹名称: mac_sch_166_mut3_20250714_190015
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_166_mut3_20250714_190015
+日志文件: mac_sch_166_mut3_phone_log_20250714_190015.log
+----------------------------------------
+文件夹名称: mac_sch_6_mut2_20250715_164956
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_6_mut2_20250715_164956
+日志文件: mac_sch_6_mut2_phone_log_20250715_164956.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut3_20250715_203839
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_9_mut3_20250715_203839
+日志文件: mac_sch_9_mut3_phone_log_20250715_203839.log
+----------------------------------------
+文件夹名称: mac_sch_177_mut4_20250714_194955
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_177_mut4_20250714_194955
+日志文件: mac_sch_177_mut4_phone_log_20250714_194955.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut15_20250715_053740
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut15_20250715_053740
+日志文件: mac_sch_20_mut15_phone_log_20250715_053740.log
+----------------------------------------
+文件夹名称: mac_sch_30_mut5_20250715_082518
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_30_mut5_20250715_082518
+日志文件: mac_sch_30_mut5_phone_log_20250715_082518.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut23_20250714_074213
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_12_mut23_20250714_074213
+日志文件: mac_sch_12_mut23_phone_log_20250714_074213.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut6_20250714_093456
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_136_mut6_20250714_093456
+日志文件: mac_sch_136_mut6_phone_log_20250714_093456.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut33_20250714_232859
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut33_20250714_232859
+日志文件: mac_sch_18_mut33_phone_log_20250714_232859.log
+----------------------------------------
+文件夹名称: mac_sch_72_mut1_20250715_171247
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_72_mut1_20250715_171247
+日志文件: mac_sch_72_mut1_phone_log_20250715_171247.log
+----------------------------------------
+文件夹名称: mac_sch_84_mut4_20250715_184040
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_84_mut4_20250715_184040
+日志文件: mac_sch_84_mut4_phone_log_20250715_184040.log
+----------------------------------------
+文件夹名称: mac_sch_183_mut5_20250714_213509
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_183_mut5_20250714_213509
+日志文件: mac_sch_183_mut5_phone_log_20250714_213509.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut4_20250715_204025
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_9_mut4_20250715_204025
+日志文件: mac_sch_9_mut4_phone_log_20250715_204025.log
+----------------------------------------
+文件夹名称: mac_sch_151_mut4_20250714_170430
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_151_mut4_20250714_170430
+日志文件: mac_sch_151_mut4_phone_log_20250714_170430.log
+----------------------------------------
+文件夹名称: mac_sch_46_mut2_20250715_092720
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_46_mut2_20250715_092720
+日志文件: mac_sch_46_mut2_phone_log_20250715_092720.log
+----------------------------------------
+文件夹名称: mac_sch_147_mut2_20250714_144702
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_147_mut2_20250714_144702
+日志文件: mac_sch_147_mut2_phone_log_20250714_144702.log
+----------------------------------------
+文件夹名称: mac_sch_6_mut6_20250715_165512
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_6_mut6_20250715_165512
+日志文件: mac_sch_6_mut6_phone_log_20250715_165512.log
+----------------------------------------
+文件夹名称: mac_sch_99_mut6_20250715_203137
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_99_mut6_20250715_203137
+日志文件: mac_sch_99_mut6_phone_log_20250715_203137.log
+----------------------------------------
+文件夹名称: mac_sch_174_mut2_20250714_194053
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_174_mut2_20250714_194053
+日志文件: mac_sch_174_mut2_phone_log_20250714_194053.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut63_20250714_164115
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut63_20250714_164115
+日志文件: mac_sch_14_mut63_phone_log_20250714_164115.log
+----------------------------------------
+文件夹名称: mac_sch_6_mut5_20250715_165328
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_6_mut5_20250715_165328
+日志文件: mac_sch_6_mut5_phone_log_20250715_165328.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut59_20250714_085056
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_12_mut59_20250714_085056
+日志文件: mac_sch_12_mut59_phone_log_20250714_085056.log
+----------------------------------------
+文件夹名称: mac_sch_31_mut1_20250715_082849
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_31_mut1_20250715_082849
+日志文件: mac_sch_31_mut1_phone_log_20250715_082849.log
+----------------------------------------
+文件夹名称: mac_sch_179_mut6_20250714_201446
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_179_mut6_20250714_201446
+日志文件: mac_sch_179_mut6_phone_log_20250714_201446.log
+----------------------------------------
+文件夹名称: mac_sch_7_mut2_20250715_175127
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_7_mut2_20250715_175127
+日志文件: mac_sch_7_mut2_phone_log_20250715_175127.log
+----------------------------------------
+文件夹名称: mac_sch_6_mut3_20250715_165142
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_6_mut3_20250715_165142
+日志文件: mac_sch_6_mut3_phone_log_20250715_165142.log
+----------------------------------------
+文件夹名称: mac_sch_63_mut1_20250715_111759
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_63_mut1_20250715_111759
+日志文件: mac_sch_63_mut1_phone_log_20250715_111759.log
+----------------------------------------
+文件夹名称: mac_sch_68_mut5_20250715_164440
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_68_mut5_20250715_164440
+日志文件: mac_sch_68_mut5_phone_log_20250715_164440.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut2_20250714_092755
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_136_mut2_20250714_092755
+日志文件: mac_sch_136_mut2_phone_log_20250714_092755.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut9_20250715_055143
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut9_20250715_055143
+日志文件: mac_sch_20_mut9_phone_log_20250715_055143.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut3_20250715_091832
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_43_mut3_20250715_091832
+日志文件: mac_sch_43_mut3_phone_log_20250715_091832.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut39_20250714_155311
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut39_20250714_155311
+日志文件: mac_sch_14_mut39_phone_log_20250714_155311.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut47_20250714_160919
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut47_20250714_160919
+日志文件: mac_sch_14_mut47_phone_log_20250714_160919.log
+----------------------------------------
+文件夹名称: mac_sch_4_mut1_20250715_093608
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_4_mut1_20250715_093608
+日志文件: mac_sch_4_mut1_phone_log_20250715_093608.log
+----------------------------------------
+文件夹名称: mac_sch_178_mut6_20250714_200218
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_178_mut6_20250714_200218
+日志文件: mac_sch_178_mut6_phone_log_20250714_200218.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut5_20250715_092203
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_43_mut5_20250715_092203
+日志文件: mac_sch_43_mut5_phone_log_20250715_092203.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut48_20250714_161106
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut48_20250714_161106
+日志文件: mac_sch_14_mut48_phone_log_20250714_161106.log
+----------------------------------------
+文件夹名称: mac_sch_168_mut5_20250714_191236
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_168_mut5_20250714_191236
+日志文件: mac_sch_168_mut5_phone_log_20250714_191236.log
+----------------------------------------
+文件夹名称: mac_sch_82_mut5_20250715_183007
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_82_mut5_20250715_183007
+日志文件: mac_sch_82_mut5_phone_log_20250715_183007.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut50_20250714_161625
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut50_20250714_161625
+日志文件: mac_sch_14_mut50_phone_log_20250714_161625.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut2_20250715_203653
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_9_mut2_20250715_203653
+日志文件: mac_sch_9_mut2_phone_log_20250715_203653.log
+----------------------------------------
+文件夹名称: mac_sch_127_mut3_20250714_064410
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_127_mut3_20250714_064410
+日志文件: mac_sch_127_mut3_phone_log_20250714_064410.log
+----------------------------------------
+文件夹名称: mac_sch_27_mut5_20250715_071616
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_27_mut5_20250715_071616
+日志文件: mac_sch_27_mut5_phone_log_20250715_071616.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut2_20250715_091647
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_43_mut2_20250715_091647
+日志文件: mac_sch_43_mut2_phone_log_20250715_091647.log
+----------------------------------------
+文件夹名称: mac_sch_61_mut4_20250715_111040
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_61_mut4_20250715_111040
+日志文件: mac_sch_61_mut4_phone_log_20250715_111040.log
+----------------------------------------
+文件夹名称: mac_sch_141_mut5_20250714_135312
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_141_mut5_20250714_135312
+日志文件: mac_sch_141_mut5_phone_log_20250714_135312.log
+----------------------------------------
+文件夹名称: mac_sch_177_mut5_20250714_195142
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_177_mut5_20250714_195142
+日志文件: mac_sch_177_mut5_phone_log_20250714_195142.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut14_20250715_053554
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut14_20250715_053554
+日志文件: mac_sch_20_mut14_phone_log_20250715_053554.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut61_20250714_163743
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut61_20250714_163743
+日志文件: mac_sch_14_mut61_phone_log_20250714_163743.log
+----------------------------------------
+文件夹名称: mac_sch_50_mut1_20250715_094132
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_50_mut1_20250715_094132
+日志文件: mac_sch_50_mut1_phone_log_20250715_094132.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut28_20250714_231800
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut28_20250714_231800
+日志文件: mac_sch_18_mut28_phone_log_20250714_231800.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut27_20250714_231611
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut27_20250714_231611
+日志文件: mac_sch_18_mut27_phone_log_20250714_231611.log
+----------------------------------------
+文件夹名称: mac_sch_88_mut5_20250715_192111
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_88_mut5_20250715_192111
+日志文件: mac_sch_88_mut5_phone_log_20250715_192111.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut44_20250714_160356
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut44_20250714_160356
+日志文件: mac_sch_14_mut44_phone_log_20250714_160356.log
+----------------------------------------
+文件夹名称: mac_sch_166_mut2_20250714_185829
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_166_mut2_20250714_185829
+日志文件: mac_sch_166_mut2_phone_log_20250714_185829.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut1_20250715_091501
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_43_mut1_20250715_091501
+日志文件: mac_sch_43_mut1_phone_log_20250715_091501.log
+----------------------------------------
+文件夹名称: mac_sch_66_mut2_20250715_162710
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_66_mut2_20250715_162710
+日志文件: mac_sch_66_mut2_phone_log_20250715_162710.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut29_20250714_133006
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut29_20250714_133006
+日志文件: mac_sch_13_mut29_phone_log_20250714_133006.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut14_20250715_075658
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_29_mut14_20250715_075658
+日志文件: mac_sch_29_mut14_phone_log_20250715_075658.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut31_20250714_133525
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut31_20250714_133525
+日志文件: mac_sch_13_mut31_phone_log_20250714_133525.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut26_20250714_132450
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut26_20250714_132450
+日志文件: mac_sch_13_mut26_phone_log_20250714_132450.log
+----------------------------------------
+文件夹名称: mac_sch_154_mut4_20250714_172224
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_154_mut4_20250714_172224
+日志文件: mac_sch_154_mut4_phone_log_20250714_172224.log
+----------------------------------------
+文件夹名称: mac_sch_174_mut3_20250714_194241
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_174_mut3_20250714_194241
+日志文件: mac_sch_174_mut3_phone_log_20250714_194241.log
+----------------------------------------
+文件夹名称: mac_sch_51_mut2_20250715_095418
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_51_mut2_20250715_095418
+日志文件: mac_sch_51_mut2_phone_log_20250715_095418.log
+----------------------------------------
+文件夹名称: mac_sch_20_mut11_20250715_053038
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_20_mut11_20250715_053038
+日志文件: mac_sch_20_mut11_phone_log_20250715_053038.log
+----------------------------------------
+文件夹名称: mac_sch_72_mut2_20250715_171432
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_72_mut2_20250715_171432
+日志文件: mac_sch_72_mut2_phone_log_20250715_171432.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut49_20250714_161252
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut49_20250714_161252
+日志文件: mac_sch_14_mut49_phone_log_20250714_161252.log
+----------------------------------------
+文件夹名称: mac_sch_12_mut61_20250714_085614
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_12_mut61_20250714_085614
+日志文件: mac_sch_12_mut61_phone_log_20250714_085614.log
+----------------------------------------
+文件夹名称: mac_sch_18_mut14_20250714_225040
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_18_mut14_20250714_225040
+日志文件: mac_sch_18_mut14_phone_log_20250714_225040.log
+----------------------------------------
+文件夹名称: mac_sch_43_mut6_20250715_092349
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_43_mut6_20250715_092349
+日志文件: mac_sch_43_mut6_phone_log_20250715_092349.log
+----------------------------------------
+文件夹名称: mac_sch_186_mut5_20250714_220353
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_186_mut5_20250714_220353
+日志文件: mac_sch_186_mut5_phone_log_20250714_220353.log
+----------------------------------------
+文件夹名称: mac_sch_13_mut25_20250714_132304
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_13_mut25_20250714_132304
+日志文件: mac_sch_13_mut25_phone_log_20250714_132304.log
+----------------------------------------
+文件夹名称: mac_sch_29_mut13_20250715_075513
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_29_mut13_20250715_075513
+日志文件: mac_sch_29_mut13_phone_log_20250715_075513.log
+----------------------------------------
+文件夹名称: mac_sch_147_mut1_20250714_144515
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_147_mut1_20250714_144515
+日志文件: mac_sch_147_mut1_phone_log_20250714_144515.log
+----------------------------------------
+文件夹名称: mac_sch_173_mut5_20250714_193536
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_173_mut5_20250714_193536
+日志文件: mac_sch_173_mut5_phone_log_20250714_193536.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut52_20250714_162000
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut52_20250714_162000
+日志文件: mac_sch_14_mut52_phone_log_20250714_162000.log
+----------------------------------------
+文件夹名称: mac_sch_68_mut4_20250715_164255
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_68_mut4_20250715_164255
+日志文件: mac_sch_68_mut4_phone_log_20250715_164255.log
+----------------------------------------
+文件夹名称: mac_sch_161_mut1_20250714_182631
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_161_mut1_20250714_182631
+日志文件: mac_sch_161_mut1_phone_log_20250714_182631.log
+----------------------------------------
+文件夹名称: mac_sch_136_mut1_20250714_092609
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_136_mut1_20250714_092609
+日志文件: mac_sch_136_mut1_phone_log_20250714_092609.log
+----------------------------------------
+文件夹名称: mac_sch_17_mut31_20250714_210102
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_17_mut31_20250714_210102
+日志文件: mac_sch_17_mut31_phone_log_20250714_210102.log
+----------------------------------------
+文件夹名称: mac_sch_9_mut1_20250715_203507
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_9_mut1_20250715_203507
+日志文件: mac_sch_9_mut1_phone_log_20250715_203507.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut46_20250714_160731
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut46_20250714_160731
+日志文件: mac_sch_14_mut46_phone_log_20250714_160731.log
+----------------------------------------
+文件夹名称: mac_sch_46_mut4_20250715_093051
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_46_mut4_20250715_093051
+日志文件: mac_sch_46_mut4_phone_log_20250715_093051.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut58_20250714_163037
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut58_20250714_163037
+日志文件: mac_sch_14_mut58_phone_log_20250714_163037.log
+----------------------------------------
+文件夹名称: mac_sch_14_mut57_20250714_162851
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_14_mut57_20250714_162851
+日志文件: mac_sch_14_mut57_phone_log_20250714_162851.log
+----------------------------------------
+文件夹名称: mac_sch_204_mut5_20250715_050745
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_204_mut5_20250715_050745
+日志文件: mac_sch_204_mut5_phone_log_20250715_050745.log
+----------------------------------------
+文件夹名称: mac_sch_86_mut4_20250715_185815
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_86_mut4_20250715_185815
+日志文件: mac_sch_86_mut4_phone_log_20250715_185815.log
+----------------------------------------
+文件夹名称: mac_sch_99_mut5_20250715_202951
+完整路径: /home/qiqingh/Desktop/2025_mobile_testing/mobile_test/single_field_results/vivo_x100/mac_sch_99_mut5_20250715_202951
+日志文件: mac_sch_99_mut5_phone_log_20250715_202951.log
+----------------------------------------
